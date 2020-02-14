@@ -1,0 +1,6 @@
+C:\Users\aa415\Source\Repos\Test01\Test01\obj\Debug\Test01.csprojAssemblyReference.cache
+C:\Users\aa415\Source\Repos\Test01\Test01\bin\Debug\Test01.exe.config
+C:\Users\aa415\Source\Repos\Test01\Test01\bin\Debug\Test01.exe
+C:\Users\aa415\Source\Repos\Test01\Test01\bin\Debug\Test01.pdb
+C:\Users\aa415\Source\Repos\Test01\Test01\obj\Debug\Test01.exe
+C:\Users\aa415\Source\Repos\Test01\Test01\obj\Debug\Test01.pdb

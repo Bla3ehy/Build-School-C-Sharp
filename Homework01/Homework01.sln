@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "奇偶數判斷1", "odd01\奇偶數判斷1.csproj", "{ECE0647F-214B-4639-B76F-E99AB74637B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "奇偶數判斷2", "odd02\奇偶數判斷2.csproj", "{EDECFA77-74F2-46C3-8FD7-ED768FBCB7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "迴圈倒置1", "迴圈倒置01\迴圈倒置1.csproj", "{657B7E86-BFB2-469A-8AA8-451647008CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "迴圈倒置2", "迴圈倒置02\迴圈倒置2.csproj", "{454863CE-FF74-4CC1-A00A-D8700A7E02A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "閏年", "leapyear01\閏年.csproj", "{FA1D7A7C-0D56-4583-AF27-0DD7C2D2B251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計算一年內的周六與周日", "leapYear02\計算一年內的周六與周日.csproj", "{E6745649-078E-4E52-B0F4-62572D6582C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE0647F-214B-4639-B76F-E99AB74637B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE0647F-214B-4639-B76F-E99AB74637B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE0647F-214B-4639-B76F-E99AB74637B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE0647F-214B-4639-B76F-E99AB74637B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDECFA77-74F2-46C3-8FD7-ED768FBCB7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDECFA77-74F2-46C3-8FD7-ED768FBCB7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDECFA77-74F2-46C3-8FD7-ED768FBCB7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDECFA77-74F2-46C3-8FD7-ED768FBCB7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657B7E86-BFB2-469A-8AA8-451647008CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657B7E86-BFB2-469A-8AA8-451647008CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657B7E86-BFB2-469A-8AA8-451647008CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657B7E86-BFB2-469A-8AA8-451647008CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454863CE-FF74-4CC1-A00A-D8700A7E02A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454863CE-FF74-4CC1-A00A-D8700A7E02A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454863CE-FF74-4CC1-A00A-D8700A7E02A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454863CE-FF74-4CC1-A00A-D8700A7E02A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1D7A7C-0D56-4583-AF27-0DD7C2D2B251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1D7A7C-0D56-4583-AF27-0DD7C2D2B251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1D7A7C-0D56-4583-AF27-0DD7C2D2B251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1D7A7C-0D56-4583-AF27-0DD7C2D2B251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6745649-078E-4E52-B0F4-62572D6582C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6745649-078E-4E52-B0F4-62572D6582C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6745649-078E-4E52-B0F4-62572D6582C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6745649-078E-4E52-B0F4-62572D6582C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5496F079-CC9D-4DCC-897E-0727E9D75E7A}
+	EndGlobalSection
+EndGlobal
